@@ -1,4 +1,4 @@
-[![Banner}(https://github.com/igmarin/igmarin/raw/master/assets.background.jpg)](https://www.twitter.com/igmarin)
+[![Banner](https://github.com/igmarin/igmarin/blob/master/assets/background.jpg)](https://www.twitter.com/igmarin)
 ### Hi there 👋
 - 🔭 I’m currently working on United Virtualities
 - 🌱 I’m currently learning Data Science
