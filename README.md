@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [Tiempo Development](https://www.tiempodev.com/ "Tiempo Development")
 
 - 🌱 learning Data Science & Product Management
-- 👯 I’m looking to collaborate on cool projects (I know sounds cheesy)
+- 👯 I’m looking to collaborate on cool projects (I know that it sounds cheesy)
 - 📫 How to reach me by email or DM either here or twitter
 
 ### More about me
