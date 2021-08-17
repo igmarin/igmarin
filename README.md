@@ -1,10 +1,12 @@
 [![Banner](https://github.com/igmarin/igmarin/blob/master/assets/background.jpg)](https://www.twitter.com/igmarin)
-### Hi!
-- 🔭 I work at [3Pillar Global](https://www.3pillarglobal.com/ "3Pillar Global")
 
+- 🔭 I work at [3Pillar Global](https://www.3pillarglobal.com/ "3Pillar Global")
 - 🌱 Learning Go & Data Science
 - 👯 I’m looking to collaborate on cool projects
 - 📫 Feel free to contact me
+
+
+![Codewars Badges](https://www.codewars.com/users/igmarin/badges/large)
 
 ## Tech Stack
 
@@ -14,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)
 ![ReactJS](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
+
+
 
 ### Backend
 
