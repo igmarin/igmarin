@@ -1,8 +1,7 @@
 [![Banner](https://github.com/igmarin/igmarin/blob/master/assets/background.jpg)](https://www.twitter.com/igmarin)
 
-- 🔭 I work at [3Pillar Global](https://www.3pillarglobal.com/ "3Pillar Global")
+- 🔭 Currently working at [Envato](https://envato.com/ "Envato")
 - 🌱 Learning Go & Data Science
-- 👯 I’m looking to collaborate on cool projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igmarin&label=Profile%20views&color=0e75b6&style=flat" alt="igmarin" /> </p>
 
