@@ -1,29 +1,141 @@
-[![Banner](https://github.com/igmarin/igmarin/blob/master/assets/background.jpg)](https://www.twitter.com/igmarin)
+<div align="center">
 
-- 🔭 Currently working at [Dealerware](https://www.dealerware.com/ "Dealerware")
-- 🌱 Learning Go & Data Science
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f1923;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a2e42;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f1923;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2E75B6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4fa3e0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <rect x="48" y="48" width="4" height="60" fill="url(#accent)" rx="2"/>
+  <text x="68" y="82" font-family="'Segoe UI', system-ui, sans-serif" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Ismael G. Marín C.</text>
+  <text x="68" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#4fa3e0" letter-spacing="1">TECH LEAD  ·  SENIOR SOFTWARE ENGINEER  ·  AI ENGINEER</text>
+  <text x="68" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="300" fill="#8899aa" letter-spacing="0.5">20 years building software — all remote  ·  León, México 🇲🇽</text>
+  <circle cx="820" cy="100" r="40" fill="#2E75B6" opacity="0.15"/>
+  <circle cx="860" cy="60" r="25" fill="#4fa3e0" opacity="0.1"/>
+  <circle cx="790" cy="150" r="20" fill="#2E75B6" opacity="0.1"/>
+</svg>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igmarin&label=Profile%20views&color=0e75b6&style=flat" alt="igmarin" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ismaelmarin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelmarin)
+[![RubyGems](https://img.shields.io/badge/RubyGems-rails--ai--bridge-CC0000?style=flat-square&logo=rubygems&logoColor=white)](https://rubygems.org/gems/rails-ai-bridge)
+[![Medium](https://img.shields.io/badge/Medium-@igmarin-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@igmarin)
+[![Email](https://img.shields.io/badge/Email-ismael.marin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ismael.marin@gmail.com)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igmarin" alt="igmarin" /></a> </p>
+</div>
 
+---
 
-![Codewars Badges](https://www.codewars.com/users/igmarin/badges/large)
+## About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/igmarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igmarin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ismaelmarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismaelmarin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/igmarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="igmarin" height="30" width="40" /></a>
-<a href="https://fb.com/ismaelmarin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ismaelmarin" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/igmarin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="igmarin" height="30" width="40" /></a>
-</p>
+I'm a cross-functional Tech Lead and Senior Software Engineer with **20 years of experience building software — all remote**. I've grown alongside Ruby on Rails through every major evolution of the framework, and for the last 10 years I've been focused on scalable backend systems for US and LATAM SaaS companies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a></p>
+Currently at **Dealerware** — leading a squad of backend engineers, QA, mobile, and frontend, authoring RFCs and ADRs, owning system architecture, and staying close to the codebase. 370+ pull requests merged across 4 years on systems handling 10,000+ transactions per hour.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igmarin&show_icons=true&locale=en&layout=compact" alt="igmarin" /></p>
+Lately I've been going deep on **AI Engineering** — not just using AI tools, but building the infrastructure that makes them genuinely useful for engineering teams.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igmarin&show_icons=true&locale=en" alt="igmarin" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igmarin&" alt="igmarin" /></p>
+## 🔨 Open Source
+
+### [rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge) · [![Gem Version](https://img.shields.io/gem/v/rails-ai-bridge?style=flat-square&color=CC0000)](https://rubygems.org/gems/rails-ai-bridge)
+
+> *Turn any Rails app into an AI-ready codebase — one command, zero config.*
+
+The problem: AI assistants waste tokens guessing your app structure and still give generic responses. `rails-ai-bridge` fixes the root cause — giving every AI tool structured, accurate context of your Rails app before the conversation starts.
+
+**Two modes:**
+- `rails ai:bridge` — generates static context files committed to your repo (CLAUDE.md, AGENTS.md, .cursorrules, copilot-instructions.md, .windsurfrules, .mcp.json). No server needed. Whole team benefits automatically.
+- `rails ai:serve` — live MCP server for real-time Rails introspection on demand.
+
+```bash
+gem 'rails-ai-bridge'
+rails generate rails_ai_bridge:install
+rails ai:bridge
+```
+
+Works with **Claude Code · Cursor · Codex · GitHub Copilot · Windsurf**
+
+---
+
+### [rails-agent-skills](https://github.com/igmarin/rails-agent-skills)
+
+> *Curated AI agent skill library for Ruby on Rails development.*
+
+Structured `SKILL.md` files that give coding agents the context, conventions, and discipline to generate production-quality Rails code — with TDD as a hard gate and workflow chaining from PRD to PR.
+
+Compatible with **Cursor · Codex · Claude Code**
+
+---
+
+## 🧠 Currently exploring
+
+- Deepening **agent-based architectures** and CI/CD feedback loops with AI
+- **MCP integrations** connecting engineering tools (GitHub, Atlassian) to AI workflows
+- **DDD patterns** applied to large Rails monoliths
+- Writing about technical leadership and AI Engineering on [Medium](https://medium.com/@igmarin)
+
+---
+
+## 🛠 Stack
+
+**Core**
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+
+**AI & Tooling**
+
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D4A27F?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-1F4E79?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+
+**Architecture**
+
+![DDD](https://img.shields.io/badge/Domain--Driven_Design-555?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-555?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![RSpec](https://img.shields.io/badge/RSpec-CC0000?style=flat-square)
+
+---
+
+## 📈 Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=igmarin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igmarin&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Generative AI Fundamentals** — Databricks Academy Accreditation
+- 🤖 **AI Agents in LangGraph** — DeepLearning.AI
+- 🤖 **Building Agentic AI Systems** — DeepLearning.AI
+- 🛤 **Advanced Product Management: Vision, Strategy & Metrics** — LinkedIn Learning
+
+---
+
+<div align="center">
+
+*Open to Senior / Staff Engineer and AI Engineering roles — remote, Americas or EMEA*
+
+*I care more about the team, the problem, and the growth trajectory than the entry title.*
+*I've grown from mid-level to Tech Lead in every company I've joined — and I plan to keep doing that.*
+
+</div>
