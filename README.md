@@ -16,7 +16,7 @@
   <rect x="48" y="48" width="4" height="60" fill="url(#accent)" rx="2"/>
   <text x="68" y="82" font-family="'Segoe UI', system-ui, sans-serif" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Ismael G. Marín C.</text>
   <text x="68" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#4fa3e0" letter-spacing="1">TECH LEAD  ·  SENIOR SOFTWARE ENGINEER  ·  AI ENGINEER</text>
-  <text x="68" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="300" fill="#8899aa" letter-spacing="0.5">20 years building software — all remote  ·  León, México 🇲🇽</text>
+  <text x="68" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="300" fill="#8899aa" letter-spacing="0.5">15 years building software — all remote  ·  León, México 🇲🇽</text>
   <circle cx="820" cy="100" r="40" fill="#2E75B6" opacity="0.15"/>
   <circle cx="860" cy="60" r="25" fill="#4fa3e0" opacity="0.1"/>
   <circle cx="790" cy="150" r="20" fill="#2E75B6" opacity="0.1"/>
