@@ -59,7 +59,8 @@ rails generate rails_ai_bridge:install
 rails ai:bridge
 ```
 
-Works with **Claude Code · Cursor · Codex · GitHub Copilot · Windsurf**
+Works with **Claude Code · Cursor · Codex · GitHub Copilot · Windsurf . MCP Server for dev and prod  . Gemini **
+
 
 ---
 
@@ -69,7 +70,7 @@ Works with **Claude Code · Cursor · Codex · GitHub Copilot · Windsurf**
 
 Structured `SKILL.md` files that give coding agents the context, conventions, and discipline to generate production-quality Rails code — with TDD as a hard gate and workflow chaining from PRD to PR.
 
-Compatible with **Cursor · Codex · Claude Code**
+Compatible with **Cursor · Codex · Claude Code · Gemini · MCP Server (JetBrain) · Windsurf  **
 
 ---
 
