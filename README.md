@@ -35,10 +35,11 @@
 
 I'm a cross-functional Tech Lead and Senior Software Engineer with **15 years of experience building software — all remote**. I've grown alongside Ruby on Rails through every major evolution of the framework, and for the last 10 years I've been focused on scalable backend systems for US and LATAM SaaS companies.
 
-Currently at **Dealerware** — leading a squad of backend engineers, QA, mobile, and frontend, authoring RFCs and ADRs, owning system architecture, and staying close to the codebase. 370+ pull requests merged across 4 years on systems handling 10,000+ transactions per hour.
+My last job was at **Dealerware** — leading a squad of backend engineers, QA, mobile, and frontend, authoring RFCs and ADRs, owning system architecture, and staying close to the codebase. 370+ pull requests merged across 4 years on systems handling 10,000+ transactions per hour.
 
 Lately I've been going deep on **AI Engineering** — not just using AI tools, but building the infrastructure that makes them genuinely useful for engineering teams.
 
+Open to full-time, fractional, contract, or consulting opportunities—flexible depending on impact and fit.
 ---
 
 ## 🔨 Open Source
