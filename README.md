@@ -40,6 +40,7 @@ My last job was at **Dealerware** — leading a squad of backend engineers, QA, 
 Lately I've been going deep on **AI Engineering** — not just using AI tools, but building the infrastructure that makes them genuinely useful for engineering teams.
 
 Open to full-time, fractional, contract, or consulting opportunities—flexible depending on impact and fit.
+
 ---
 
 ## 🔨 Open Source
