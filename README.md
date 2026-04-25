@@ -1,26 +1,6 @@
 <div align="center">
 
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f1923;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#1a2e42;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0f1923;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2E75B6;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#4fa3e0;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
-  <rect x="48" y="48" width="4" height="60" fill="url(#accent)" rx="2"/>
-  <text x="68" y="82" font-family="'Segoe UI', system-ui, sans-serif" font-size="36" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Ismael G. Marín C.</text>
-  <text x="68" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" font-weight="400" fill="#4fa3e0" letter-spacing="1">TECH LEAD  ·  SENIOR SOFTWARE ENGINEER  ·  AI ENGINEER</text>
-  <text x="68" y="148" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="300" fill="#8899aa" letter-spacing="0.5">15 years building software — all remote  ·  León, México 🇲🇽</text>
-  <circle cx="820" cy="100" r="40" fill="#2E75B6" opacity="0.15"/>
-  <circle cx="860" cy="60" r="25" fill="#4fa3e0" opacity="0.1"/>
-  <circle cx="790" cy="150" r="20" fill="#2E75B6" opacity="0.1"/>
-</svg>
+<img src="header.svg" width="900" alt="Ismael G. Marín C. | Tech Lead · Senior Software Engineer · AI Engineer">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismaelmarin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelmarin)
 [![RubyGems](https://img.shields.io/badge/RubyGems-rails--ai--bridge-CC0000?style=flat-square&logo=rubygems&logoColor=white)](https://rubygems.org/gems/rails-ai-bridge)
@@ -33,19 +13,21 @@
 
 ## About me
 
-I'm a cross-functional Tech Lead and Senior Software Engineer with **15 years of experience building software — all remote**. I've grown alongside Ruby on Rails through every major evolution of the framework, and for the last 10 years I've been focused on scalable backend systems for US and LATAM SaaS companies.
+> *Open to Senior / Staff Engineer and AI Engineering roles — remote, Americas or EMEA*
+> 
+> *I care more about the team, the problem, and the growth trajectory than the entry title. I've grown from mid-level to Tech Lead in every company I've joined — and I plan to keep doing that.*
 
-My last job was at **Dealerware** — leading a squad of backend engineers, QA, mobile, and frontend, authoring RFCs and ADRs, owning system architecture, and staying close to the codebase. 370+ pull requests merged across 4 years on systems handling 10,000+ transactions per hour.
+I am a **Tech Lead and Senior Software Engineer** who bridges the gap between robust, scalable backend architecture and modern AI integrations. With 20 years of remote engineering experience, I specialize in taking Rails monoliths and turning them into AI-ready platforms. 
 
-Lately I've been going deep on **AI Engineering** — not just using AI tools, but building the infrastructure that makes them genuinely useful for engineering teams.
+Currently at **datacenters.com** — Architecting and helping a team of engineers design and implement a new B2B SaaS platform, handling platform strategy, vendor management, API design, and CI/CD automation.
 
-Open to full-time, fractional, contract, or consulting opportunities—flexible depending on impact and fit.
+My current focus is **AI Engineering** — building the actual infrastructure, MCP integrations, and agent architectures that make LLMs genuinely useful for engineering teams, rather than just using them as tools.
 
 ---
 
 ## 🔨 Open Source
 
-### [rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge) · [![Gem Version](https://img.shields.io/gem/v/rails-ai-bridge?style=flat-square&color=CC0000)](https://rubygems.org/gems/rails-ai-bridge)
+### [rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge) · [![Gem Version](https://img.shields.io/gem/v/rails-ai-bridge?style=flat-square&color=CC0000)](https://rubygems.org/gems/rails-ai-bridge) · [![Gem Downloads](https://img.shields.io/gem/dt/rails-ai-bridge?style=flat-square&color=4169E1)](https://rubygems.org/gems/rails-ai-bridge)
 
 > *Turn any Rails app into an AI-ready codebase — one command, zero config.*
 
@@ -61,26 +43,24 @@ rails generate rails_ai_bridge:install
 rails ai:bridge
 ```
 
-Works with **Claude Code · Cursor · Codex · GitHub Copilot · Windsurf . MCP Server for dev and prod  . Gemini **
-
+Works with **Antigravity · Claude Code · Codex · Cursor · Gemini · GitHub Copilot · Windsurf**
 
 ---
 
-### [rails-agent-skills](https://github.com/igmarin/rails-agent-skills)
+### [rails-agent-skills](https://github.com/igmarin/rails-agent-skills) · [![tessl](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi.tessl.io%2Fv1%2Fbadges%2Figmarin%2Frails-agent-skills)](https://tessl.io/registry/igmarin/rails-agent-skills)
 
 > *Curated AI agent skill library for Ruby on Rails development.*
 
 Structured `SKILL.md` files that give coding agents the context, conventions, and discipline to generate production-quality Rails code — with TDD as a hard gate and workflow chaining from PRD to PR.
 
-Compatible with **Cursor · Codex · Claude Code · Gemini · MCP Server (JetBrain) · Windsurf  **
+Compatible with **Antigravity · Claude Code · Codex · Cursor · Gemini · GitHub Copilot · Windsurf**
 
 ---
 
 ## 🧠 Currently exploring
 
 - Deepening **agent-based architectures** and CI/CD feedback loops with AI
-- **MCP integrations** connecting engineering tools (GitHub, Atlassian) to AI workflows
-- **DDD patterns** applied to large Rails monoliths
+- Preparing for the **AI Engineer for Developers Associate Certification**
 - Writing about technical leadership and AI Engineering on [Medium](https://medium.com/@igmarin)
 
 ---
@@ -131,14 +111,3 @@ Compatible with **Cursor · Codex · Claude Code · Gemini · MCP Server (JetBra
 - 🤖 **AI Agents in LangGraph** — DeepLearning.AI
 - 🤖 **Building Agentic AI Systems** — DeepLearning.AI
 - 🛤 **Advanced Product Management: Vision, Strategy & Metrics** — LinkedIn Learning
-
----
-
-<div align="center">
-
-*Open to Senior / Staff Engineer and AI Engineering roles — remote, Americas or EMEA*
-
-*I care more about the team, the problem, and the growth trajectory than the entry title.*
-*I've grown from mid-level to Tech Lead in every company I've joined — and I plan to keep doing that.*
-
-</div>
