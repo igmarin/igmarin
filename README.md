@@ -14,16 +14,24 @@
 ## About me
 
 > *Open to Senior / Staff Engineer and AI Engineering roles — remote, Americas or EMEA*
-> 
-> *I care more about the team, the problem, and the growth trajectory than the entry title. I've grown from mid-level to Tech Lead in every company I've joined — and I plan to keep doing that.*
+>
+> *I optimize for impact: team, problem, and growth trajectory over titles. I’ve consistently grown from mid-level to Tech Lead — and continue to operate at that trajectory.*
 
-I am a Tech Lead and Senior Software Engineer who bridges robust, scalable backend architecture with modern AI integrations. With 20 years of remote engineering experience, I specialize in evolving Rails monoliths into AI-ready platforms.
+I am a **Tech Lead and Senior Software Engineer** focused on turning real-world systems into AI-ready platforms. With 20 years of remote experience, I bridge scalable backend architecture with practical AI integrations — not as a feature, but as part of the system design.
 
 Formerly at Dealerware — led a cross-functional squad of backend, QA, mobile, and frontend engineers; authored RFCs and ADRs; owned system architecture; and stayed close to the codebase. Delivered 370+ merged pull requests over four years on systems processing 10,000+ transactions per hour.
 
-Built that foundation pre-AI, and now extend it with AI-assisted workflows — applying structured approaches to prompt design, context management, and token efficiency to improve both developer productivity and system quality.
+Built that foundation pre-AI, and now extend it by operationalizing AI into engineering workflows — applying structured approaches to prompt design, context management, and token efficiency to improve both developer productivity and system quality.
 
-My current focus is AI Engineering — building systems, not demos. I design and implement integrations, agent-based workflows, and supporting infrastructure that make LLMs actually useful in real engineering environments. Beyond MCP and RAG, I focus on creating robust, multi-step workflows and applying Spec-Driven Development to improve reliability, reduce ambiguity, and elevate the overall software development lifecycle.
+My current focus is **AI Engineering** — building systems, not demos. I design integrations, agent-based workflows, and supporting infrastructure that make LLMs reliable in real engineering environments. Beyond MCP and RAG, I focus on multi-step workflows and Spec-Driven Development to improve reliability, reduce ambiguity, and raise the quality of the software development lifecycle.
+
+## ⚡ What I build
+
+- AI-ready Rails systems (context + introspection)
+- Agent-based engineering workflows (PRD → PR)
+- Infrastructure to make LLMs reliable in production
+
+→ Turning AI from a tool into a system
 
 ---
 
@@ -33,7 +41,7 @@ My current focus is AI Engineering — building systems, not demos. I design and
 
 > *Turn any Rails app into an AI-ready codebase — one command, zero config.*
 
-The problem: AI assistants waste tokens guessing your app structure and still give generic responses. `rails-ai-bridge` fixes the root cause — giving every AI tool structured, accurate context of your Rails app before the conversation starts.
+The problem: AI assistants guess your app structure, waste tokens exploring it, and still produce generic or incorrect outputs. `rails-ai-bridge` fixes this at the root — giving AI tools structured, accurate context of your Rails app before the conversation even starts.
 
 **Two modes:**
 - `rails ai:bridge` — generates static context files committed to your repo (CLAUDE.md, AGENTS.md, .cursorrules, copilot-instructions.md, .windsurfrules, .mcp.json). No server needed. Whole team benefits automatically.
@@ -53,7 +61,7 @@ Works with **Antigravity · Claude Code · Codex · Cursor · Gemini · GitHub C
 
 > *Curated AI agent skill library for Ruby on Rails development.*
 
-Structured `SKILL.md` files that give coding agents the context, conventions, and discipline to generate production-quality Rails code — with TDD as a hard gate and workflow chaining from PRD to PR.
+Structured `SKILL.md` files that turn coding agents into disciplined Rails contributors — encoding context, conventions, and workflows with TDD as a hard gate and full chaining from PRD → PR.
 
 Compatible with **Antigravity · Claude Code · Codex · Cursor · Gemini · GitHub Copilot · Windsurf**
 
@@ -61,7 +69,7 @@ Compatible with **Antigravity · Claude Code · Codex · Cursor · Gemini · Git
 
 ## 🧠 Currently exploring
 
-- Deepening **agent-based architectures** and CI/CD feedback loops with AI
+- Designing **agent-based engineering systems** and integrating them into CI/CD feedback loops
 - Preparing for the **AI Engineer for Developers Associate Certification**
 - Writing about technical leadership and AI Engineering on [Medium](https://medium.com/@igmarin)
 
