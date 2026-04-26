@@ -17,11 +17,13 @@
 > 
 > *I care more about the team, the problem, and the growth trajectory than the entry title. I've grown from mid-level to Tech Lead in every company I've joined — and I plan to keep doing that.*
 
-I am a **Tech Lead and Senior Software Engineer** who bridges the gap between robust, scalable backend architecture and modern AI integrations. With 20 years of remote engineering experience, I specialize in taking Rails monoliths and turning them into AI-ready platforms. 
+I am a Tech Lead and Senior Software Engineer who bridges robust, scalable backend architecture with modern AI integrations. With 20 years of remote engineering experience, I specialize in evolving Rails monoliths into AI-ready platforms.
 
-Currently at **datacenters.com** — Architecting and helping a team of engineers design and implement a new B2B SaaS platform, handling platform strategy, vendor management, API design, and CI/CD automation.
+Formerly at Dealerware — led a cross-functional squad of backend, QA, mobile, and frontend engineers; authored RFCs and ADRs; owned system architecture; and stayed close to the codebase. Delivered 370+ merged pull requests over four years on systems processing 10,000+ transactions per hour.
 
-My current focus is **AI Engineering** — building the actual infrastructure, MCP integrations, and agent architectures that make LLMs genuinely useful for engineering teams, rather than just using them as tools.
+Built that foundation pre-AI, and now extend it with AI-assisted workflows — applying structured approaches to prompt design, context management, and token efficiency to improve both developer productivity and system quality.
+
+My current focus is AI Engineering — building systems, not demos. I design and implement integrations, agent-based workflows, and supporting infrastructure that make LLMs actually useful in real engineering environments. Beyond MCP and RAG, I focus on creating robust, multi-step workflows and applying Spec-Driven Development to improve reliability, reduce ambiguity, and elevate the overall software development lifecycle.
 
 ---
 
