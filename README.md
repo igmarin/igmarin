@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="900" alt="Ismael G. Marín C. | Tech Lead · Senior Software Engineer · AI Engineer">
+<img src="header.svg" width="900" alt="Ismael Marín | Tech Lead · Senior Software Engineer · AI Engineer">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismaelmarin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelmarin)
 [![RubyGems](https://img.shields.io/badge/RubyGems-rails--ai--bridge-CC0000?style=flat-square&logo=rubygems&logoColor=white)](https://rubygems.org/gems/rails-ai-bridge)
