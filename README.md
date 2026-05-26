@@ -110,4 +110,6 @@ I am actively open to **Senior Software Engineer (Ruby/Rust)** or **AI Engineeri
 * 💬 **Want to discuss agentic runtime internals or MCP tools?** Open an issue or a discussion thread directly in [agent-mcp-runtime](https://github.com/igmarin/agent-mcp-runtime).
 * 💼 **Looking for a disciplined engineer to scale your backend platform or operationalize secure AI infrastructure?** Let's connect via [LinkedIn](https://linkedin.com/in/ismaelmarin) or reach out directly at [ismael.marin@gmail.com](mailto:ismael.marin@gmail.com).
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=igmarin&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=igmarin&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=igmarin&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
