@@ -1,7 +1,8 @@
 # Ismael G. Marín Cabrera
-### Staff Software Engineer & AI Engineer
 
-#### 20 Years of Backend Expertise Architecture | Building High-Performance Agentic AI Runtimes & MCP Tools (Ruby, Python, Rust)
+## Staff Software Engineer & AI Engineer
+
+### 20 Years of Backend Expertise Architecture | Building High-Performance Agentic AI Runtimes & MCP Tools (Ruby, Python, Rust)
 
 [![Website](https://img.shields.io/badge/Website-ismaelmarin.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ismaelmarin.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismaelmarin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelmarin)
@@ -47,7 +48,7 @@ flowchart TB
 
     Packs --> Implementations
 
-    subgraph Implementations[""]
+    subgraph Implementations["Skill Implementations"]
         RubyCore[ruby-core-skills]
         RailsAgent[rails-agent-skills]
         HanakiYaku[hanakai-yaku]
@@ -65,6 +66,7 @@ flowchart TB
 #### ⚡ [agent-mcp-runtime](https://github.com/igmarin/agent-mcp-runtime) (The Flagship Safe Rust CLI Engine)
 
 An agentic framework runtime built entirely in safe Rust to compose atomic skills from multiple separate packs via the Model Context Protocol.
+
 * **Strict Compile-Time Safety:** Zero unsafe code permitted (`#[deny(unsafe_code)]`) with rigid workspace linting gates.
 * **Asynchronous ReAct Runner:** Orchestrates multi-step reasoning and action loops using customizable LLM providers via a factory service (`LlmProviderFactory`).
 * **Model Context Protocol (MCP) Client:** Integrates external tools by spawning long-running subprocesses and exchanging JSON-RPC 2.0 messages over standard I/O streams with isolated runners.
@@ -73,12 +75,14 @@ An agentic framework runtime built entirely in safe Rust to compose atomic skill
 * **TDD Frontmatter Parser:** Parses Markdown frontmatter to seamlessly extract execution metadata and constraints for agent skills/tools.
 
 #### 📦 Specialized Skill Packs (Independently validated on Tessel with scores >93%)
+
 * **[rails-agent-skills](https://github.com/igmarin/rails-agent-skills):** Rails-specific development workflows compiling 43 available skills and 9 specialized autonomous agents (*tdd, review, setup, quality, engine, bug-fix, graphql, migration, background-job*).
 * **[hanakai-yaku](https://github.com/igmarin/hanakai-yaku):** Dedicated agentic development skill library containing 50 available skills optimized explicitly for the Hanami 2.x, `dry-rb`, and Repository Object Mapper (ROM) ecosystem.
 * **[ruby-core-skills](https://github.com/igmarin/ruby-core-skills):** Base orchestration layer providing 15 atomic skills covering foundational refactoring, code formatting, security audits, and automated test planning discipline.
 * **[agnostic-planning-skills](https://github.com/igmarin/agnostic-planning-skills):** Language-agnostic project planning engine delivering 10 unique skills across 4 specialized management roles (*delivery-lead, product-owner, project-manager, tech-lead*).
 
 #### 🛠️ Tooling & Context Layer
+
 * **[ruby-skill-bench](https://github.com/igmarin/ruby-skill-bench):** An empirical evaluation engine measuring the direct "ROI of Context" for AI skills. Automatically orchestrates secure, isolated Git-based sandboxes ensuring 100% execution reproducibility and runs multi-dimensional LLM blind judging (*Correctness, Quality, Test Coverage*) to eliminate regressions.
 * **[rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge):** A zero-configuration MCP server providing instant, read-only system introspection tools (routes, models, database schemas, active jobs) directly to AI assistants. Reduces token overhead by ~15% via smart presets while accelerating response precision.
 
