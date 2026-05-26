@@ -1,8 +1,4 @@
-# Ismael G. Marín Cabrera
-
-## Staff Software Engineer & AI Engineer
-
-### 20 Years of Backend Expertise Architecture | Building High-Performance Agentic AI Runtimes & MCP Tools (Ruby, Python, Rust)
+![Ismael Marín - Staff Software Engineer & AI Engineer](header.svg)
 
 [![Website](https://img.shields.io/badge/Website-ismaelmarin.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ismaelmarin.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismaelmarin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelmarin)
