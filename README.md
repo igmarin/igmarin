@@ -1,6 +1,7 @@
 ![Ismael Marín - Staff Software Engineer & AI Engineer](header.svg)
 
 [![Website](https://img.shields.io/badge/Website-ismaelmarin.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ismaelmarin.dev/)
+[![Resume](https://img.shields.io/badge/Resume-ismaelmarin.dev/resume-06b6d4?style=flat-square&logo=read-the-docs&logoColor=white)](https://ismaelmarin.dev/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ismaelmarin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelmarin)
 [![RubyGems](https://img.shields.io/badge/RubyGems-igmarin-CC0000?style=flat-square&logo=rubygems&logoColor=white)](https://rubygems.org/profiles/igmarin)
 [![Medium](https://img.shields.io/badge/Medium-@igmarin-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@igmarin)
@@ -97,7 +98,7 @@ An agentic framework runtime built entirely in safe Rust to compose atomic skill
 
 ## 📈 Proven Production Impact
 
-* **Dealerware (Software Technical Lead):** Directed cross-functional distributed squads across 20+ production codebases. Maintained exceptional individual contributor velocity (370+ merged PRs) on frameworks handling 10,000+ hourly transactions. Led a zero-downtime search infrastructure overhaul migrating from Elasticsearch to OpenSearch, and elevated core system test coverage from 55% to 80% via AI-assisted edge case discovery.
+* **Dealerware (Software Technical Lead | May 2022 — April 2026):** Originally joined as a contractor via 3Pillar Global, hired directly and promoted from Mid-level to Senior, and subsequently to Software Technical Lead due to high performance. Directed cross-functional distributed squads across 20+ production codebases while maintaining exceptional individual contributor velocity (370+ merged PRs) on frameworks handling 10,000+ hourly transactions. Led a zero-downtime search infrastructure overhaul migrating from Elasticsearch to OpenSearch, and elevated core system test coverage from 55% to 80% via AI-assisted edge case discovery.
 * **3Pillar Global (Lead Software Engineer):** Modernized legacy enterprise monolithic codebases by enforcing structured Domain-Driven Design (DDD) principles and Service Objects, and designed a comprehensive end-to-end multi-region i18n framework from scratch.
 * **MagmaLabs (Senior Engineering Manager):** Guided company-wide high-throughput e-commerce integrations, scaling progressive checkout workflows, advanced subscription layers, and complex multi-region payment gateways across the Spree and Solidus ecosystems.
 
