@@ -95,5 +95,3 @@ I help Rails teams adopt AI tooling effectively through consulting and open-sour
 * 📧 **Contact:** [LinkedIn](https://linkedin.com/in/ismaelmarin) or [ismael.marin@gmail.com](mailto:ismael.marin@gmail.com)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=igmarin&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=igmarin&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
