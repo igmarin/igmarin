@@ -19,12 +19,13 @@ I build AI tooling and high-throughput backend systems across **Ruby (Rails)**, 
 ### By language
 
 - **Ruby**
-  - [`rails-ai-bridge`](https://github.com/igmarin/rails-ai-bridge) — **5,846** RubyGems downloads
-  - [`ruby-skill-bench`](https://github.com/igmarin/ruby-skill-bench) — **1,734** RubyGems downloads
-  - [`rails-agent-skills`](https://github.com/igmarin/rails-agent-skills) — **22** GitHub stars
+- **[`rails-ai-bridge`](https://github.com/igmarin/rails-ai-bridge)** — Ruby. Zero-config MCP server + context files for Rails. **5,846** RubyGems downloads, **94.49%** test coverage.
+- **[`ruby-skill-bench`](https://github.com/igmarin/ruby-skill-bench)** — Ruby. Evaluation engine that measures the ROI of AI context. **1,734** RubyGems downloads, multi-provider, blind LLM judging.
+- **[`rails-agent-skills`](https://github.com/igmarin/rails-agent-skills)** — Ruby. 28 Rails-specific skills + 9 workflow templates
+- **[`ruby-core-skills`](https://github.com/igmarin/rails-agent-skills)** — framework-agnostic foundations for TDD, refactoring, code review, security review, DDD, inline documentation, and common Ruby design patterns.
 - **Rust**
-  - [`brigid`](https://github.com/igmarin/brigid) — **169** `brigid-core` crate downloads; turns codebases into LLM-generated tutorials
-  - [`rs-guard`](https://github.com/nebulaideas/rs-guard) — **242** `rs-guard` crate downloads; multi-provider AI code-review CLI
+  - [`brigid`](https://github.com/igmarin/brigid) — crate downloads; turns codebases into LLM-generated tutorials
+  - [`rs-guard`](https://github.com/nebulaideas/rs-guard) — multi-provider AI code-review CLI
 - **Elixir**
   - [`elixir-phoenix-skills`](https://github.com/igmarin/elixir-phoenix-skills) — **47** agent skills for idiomatic Phoenix/LiveView/Ecto
 
@@ -32,7 +33,6 @@ I build AI tooling and high-throughput backend systems across **Ruby (Rails)**, 
 
 - **Polyglot depth:** real, shipped code in three different runtimes, not toy repos.
 - **AI/tooling credibility:** MCP servers, eval frameworks, and safe Rust CLIs — not "vibe coding".
-- **Production impact:** 5,846 + 1,734 RubyGems downloads, 242 + 169 crate downloads, and a 20-year track record scaling systems past 10k TPS.
 
 ---
 
@@ -42,7 +42,7 @@ I build AI tooling and high-throughput backend systems across **Ruby (Rails)**, 
 flowchart LR
     subgraph "Skill Ecosystem"
       Rails[Developer with Rails app] --> Bridge[rails-ai-bridge<br/>Rails context + MCP]
-      Bridge --> IDEs[IDEs: Cursor, Claude, Copilot, Windsurf, Gemini]
+      Bridge --> IDEs[IDEs: Antigravity, Cursor, Claude, Copilot, Devin]
       Bridge --> Bench[ruby-skill-bench<br/>Eval / ROI of context]
       Codebase[Codebase] --> Brigid[brigid<br/>LLM tutorial engine]
       Codebase --> Guard[rs-guard<br/>AI code review]
@@ -50,16 +50,6 @@ flowchart LR
     end
 ```
 
-### ⚙️ Core Repositories
-
-- **[`rails-ai-bridge`](https://github.com/igmarin/rails-ai-bridge)** — Ruby. Zero-config MCP server + context files for Rails. **5,846** RubyGems downloads, **94.49%** test coverage.
-- **[`ruby-skill-bench`](https://github.com/igmarin/ruby-skill-bench)** — Ruby. Evaluation engine that measures the ROI of AI context. **1,734** RubyGems downloads, multi-provider, blind LLM judging.
-- **[`rails-agent-skills`](https://github.com/igmarin/rails-agent-skills)** — Ruby. 28 Rails-specific skills + 9 workflow templates. **22** GitHub stars.
-- **[`brigid`](https://github.com/igmarin/brigid)** — Rust. Turn any codebase into an LLM-generated tutorial. `brigid-core`: **169** crate downloads.
-- **[`rs-guard`](https://github.com/nebulaideas/rs-guard)** — Rust. Multi-provider AI code-review CLI (DeepSeek, Qwen, Kimi, OpenRouter, OpenAI). `rs-guard`: **242** crate downloads.
-- **[`elixir-phoenix-skills`](https://github.com/igmarin/elixir-phoenix-skills)** — Elixir. 47 agent skills for idiomatic Phoenix/LiveView/Ecto.
-
----
 
 ## 🛠️ Technical Stack
 
