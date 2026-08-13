@@ -19,10 +19,10 @@ I build AI tooling and high-throughput backend systems across **Ruby (Rails)**, 
 ### By language
 
 - **Ruby**
-- **[`rails-ai-bridge`](https://github.com/igmarin/rails-ai-bridge)** — Ruby. Zero-config MCP server + context files for Rails. **5,846** RubyGems downloads, **94.49%** test coverage.
-- **[`ruby-skill-bench`](https://github.com/igmarin/ruby-skill-bench)** — Ruby. Evaluation engine that measures the ROI of AI context. **1,734** RubyGems downloads, multi-provider, blind LLM judging.
-- **[`rails-agent-skills`](https://github.com/igmarin/rails-agent-skills)** — Ruby. 28 Rails-specific skills + 9 workflow templates
-- **[`ruby-core-skills`](https://github.com/igmarin/rails-agent-skills)** — framework-agnostic foundations for TDD, refactoring, code review, security review, DDD, inline documentation, and common Ruby design patterns.
+  - [`rails-ai-bridge`](https://github.com/igmarin/rails-ai-bridge) — Ruby. Zero-config MCP server + context files for Rails. **5,846** RubyGems downloads, **94.49%** test coverage.
+  - [`ruby-skill-bench`](https://github.com/igmarin/ruby-skill-bench) — Ruby. Evaluation engine that measures the ROI of AI context. **1,734** RubyGems downloads, multi-provider, blind LLM judging.
+  - [`rails-agent-skills`](https://github.com/igmarin/rails-agent-skills) — Ruby. 28 Rails-specific skills + 9 workflow templates.
+  - [`ruby-core-skills`](https://github.com/igmarin/rails-agent-skills) — framework-agnostic foundations for TDD, refactoring, code review, security review, DDD, inline documentation, and common Ruby design patterns.
 - **Rust**
   - [`brigid`](https://github.com/igmarin/brigid) — crate downloads; turns codebases into LLM-generated tutorials
   - [`rs-guard`](https://github.com/nebulaideas/rs-guard) — multi-provider AI code-review CLI
