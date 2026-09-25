@@ -1,4 +1,4 @@
-# Ismael G. Marín Cabrera
+# Ismael Marin
 
 **Software Engineer & Tech Lead**  
 Ruby on Rails · Rust · AI Engineering · Backend Architecture · MCP
