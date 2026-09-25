@@ -6,18 +6,21 @@ I build backend systems and developer tools, and I still write code. Ruby on Rai
 
 **Open to full-time, part-time, and contract work.** [Let's talk](https://cal.com/ismael-marin/lets-talk).
 
-## Open source
+## Open source work
 
-| Give assistants context | Find out if it helps |
+| Project | What it does |
 | --- | --- |
-| **[rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge)** generates project context and exposes read-only inspection for Rails apps, so assistants can work with the actual codebase. | **[ruby-skill-bench](https://github.com/igmarin/ruby-skill-bench)** runs isolated evaluations to compare assistant work with and without added context or skills, including blind judging. |
-| [More than 10,000 total RubyGems downloads](https://rubygems.org/gems/rails-ai-bridge) as of 2026-09-25 UTC. | [More than 3,000 total RubyGems downloads](https://rubygems.org/gems/ruby-skill-bench) as of 2026-09-25 UTC. |
+| **[rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge)** | Generates project context and exposes read-only inspection for Rails apps, so assistants can work with the actual codebase. [More than 10,000 total RubyGems downloads](https://rubygems.org/gems/rails-ai-bridge) as of 2026-09-25 UTC. |
+| **[ruby-skill-bench](https://github.com/igmarin/ruby-skill-bench)** | Runs isolated evaluations to compare assistant work with and without added context or skills, including blind judging. [More than 3,000 total RubyGems downloads](https://rubygems.org/gems/ruby-skill-bench) as of 2026-09-25 UTC. |
+| **[pi-vida](https://github.com/igmarin/pi-vida)** | Launches coding agents with per-language skill profiles from the project repo; its Pi workflow also adds safety gates, issue tracking, and chain or team modes. |
+| **[brigid](https://github.com/igmarin/brigid)** | A Rust CLI that turns a codebase into a multi-chapter Markdown tutorial with Mermaid diagrams. |
+| **[rs-guard](https://github.com/nebulaideas/rs-guard)** | A Rust CLI for multi-provider AI code review of GitHub pull requests and local changes. |
 
-### More developer tools
+### Skill libraries
 
-- [rails-agent-skills](https://github.com/igmarin/rails-agent-skills) and [ruby-core-skills](https://github.com/igmarin/ruby-core-skills): engineering skill libraries for Rails and Ruby development.
-- [elixir-phoenix-skills](https://github.com/igmarin/elixir-phoenix-skills): engineering guidance for Elixir and Phoenix.
-- [rs-guard](https://github.com/nebulaideas/rs-guard): Rust CLI for AI-assisted code review in local development and CI.
+- **Rails and Ruby:** [rails-agent-skills](https://github.com/igmarin/rails-agent-skills) and [ruby-core-skills](https://github.com/igmarin/ruby-core-skills).
+- **Rust:** [rust-core-skills](https://github.com/igmarin/rust-core-skills) for ownership, type-driven design, error handling, and Cargo TDD.
+- **Elixir and Phoenix:** [elixir-phoenix-skills](https://github.com/igmarin/elixir-phoenix-skills) for idiomatic development across Phoenix, LiveView, Ecto, OTP, and testing.
 
 ## Production work
 
