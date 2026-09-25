@@ -1,31 +1,25 @@
-# Ismael Marin
+![Ismael Marin — software engineer and technical lead](header.svg)
 
-**Software Engineer & Tech Lead**  
-Ruby on Rails · Rust · AI Engineering · Backend Architecture · MCP
+[Portfolio](https://ismaelmarin.dev/) · [Résumé](https://igmarin.github.io/resume/) · [LinkedIn](https://linkedin.com/in/ismaelmarin) · [Email](mailto:ismael.marin@gmail.com)
 
-Software engineer and technical leader with deep experience building backend systems, SaaS products, integrations, and engineering teams for U.S. and Latin American companies. Ruby on Rails is my deepest production ecosystem, while I now work regularly with Rust, Elixir/Phoenix, and Python, particularly around developer infrastructure and AI systems. I approach AI as a software engineering problem: clear specifications, useful context, tests, guardrails, and evals. I have worked remotely throughout my career and remain hands-on with architecture and implementation.
+I build backend systems and developer tools, and I still write code. Ruby on Rails is the stack I know best in production; I also work with Rust, Elixir/Phoenix, and Python. My recent open-source work gives coding assistants better context and tests whether that context actually helps.
 
-I’m open to full-time, part-time, and contract opportunities.
+**Open to full-time, part-time, and contract work.** [Let's talk](https://cal.com/ismael-marin/lets-talk).
 
-[Portfolio & contact](https://ismaelmarin.dev/) · [Résumé](https://igmarin.github.io/resume/) · [GitHub Pages bridge](https://igmarin.github.io/) · [LinkedIn](https://linkedin.com/in/ismaelmarin) · [Writing](https://medium.com/@igmarin)
+## Open source
 
-## Selected projects
+| Give assistants context | Find out if it helps |
+| --- | --- |
+| **[rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge)** generates project context and exposes read-only inspection for Rails apps, so assistants can work with the actual codebase. | **[ruby-skill-bench](https://github.com/igmarin/ruby-skill-bench)** runs isolated evaluations to compare assistant work with and without added context or skills, including blind judging. |
+| [More than 10,000 total RubyGems downloads](https://rubygems.org/gems/rails-ai-bridge) as of 2026-09-25 UTC. | [More than 3,000 total RubyGems downloads](https://rubygems.org/gems/ruby-skill-bench) as of 2026-09-25 UTC. |
 
-### [rails-ai-bridge](https://github.com/igmarin/rails-ai-bridge)
-
-MCP and context infrastructure that lets AI coding assistants understand real Rails applications through generated project context and read-only introspection. [RubyGems recorded more than 10,000 total downloads](https://rubygems.org/gems/rails-ai-bridge) as of 2026-09-25 UTC.
-
-### [ruby-skill-bench](https://github.com/igmarin/ruby-skill-bench)
-
-An evaluation framework for measuring whether engineering skills and additional context improve AI-agent performance, using isolated runs, baseline-versus-context comparison, and blind judging. [RubyGems recorded more than 3,000 total downloads](https://rubygems.org/gems/ruby-skill-bench) as of 2026-09-25 UTC.
-
-### Engineering skills and developer tools
+### More developer tools
 
 - [rails-agent-skills](https://github.com/igmarin/rails-agent-skills) and [ruby-core-skills](https://github.com/igmarin/ruby-core-skills): engineering skill libraries for Rails and Ruby development.
 - [elixir-phoenix-skills](https://github.com/igmarin/elixir-phoenix-skills): engineering guidance for Elixir and Phoenix.
-- [rs-guard](https://github.com/nebulaideas/rs-guard): Rust tooling for local and CI execution.
+- [rs-guard](https://github.com/nebulaideas/rs-guard): Rust CLI for AI-assisted code review in local development and CI.
 
-## Selected production work
+## Production work
 
 **Dealerware · Software Engineer → Senior Software Engineer → Tech Lead · May 2022–April 2026**
 
@@ -40,7 +34,9 @@ Advise startups and product teams on architecture, backend modernization, AI ado
 
 ## Technical focus
 
-Ruby on Rails, Rust, Elixir/Phoenix, Python, PostgreSQL, Redis, Sidekiq, REST APIs, OpenSearch, AWS, Docker, distributed systems, software architecture, DDD, TDD, MCP, LLM integration, AI agents, evaluation, context engineering, and technical leadership.
+- **Backend:** Ruby on Rails, Elixir/Phoenix, Python, PostgreSQL, Redis, Sidekiq, OpenSearch, and AWS.
+- **Developer tools:** Rust, MCP, context engineering, and AI evaluation.
+- **Ways of working:** software architecture, DDD, TDD, and technical leadership.
 
 ## Contact
 
